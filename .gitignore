@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+em03fp-deploy/
+*.o
+*.so.orig
